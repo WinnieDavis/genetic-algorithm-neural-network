@@ -1,6 +1,5 @@
 __author__ = "Winnie Davis"
 __organization__ = "COSC343/AIML402, University of Otago"
-__email__ = "davwi705@student.oatgo.ac.nz"
 __noteToReader__ ="The unused code and comments were left in. I did consider removing them but I think it helps show the thought process" \
 "                   I hope this is neat enough"
 
